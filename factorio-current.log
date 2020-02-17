@@ -1,0 +1,84 @@
+   0.001 2020-02-17 01:59:38; Factorio 0.17.79 (build 47865, win64, alpha)
+   0.001 Operating system: Windows 7 Service Pack 1
+   0.001 Program arguments: "C:\GOG Games\Factorio\bin\x64\factorio.exe" 
+   0.001 Read data path: C:/GOG Games/Factorio/data
+   0.001 Write data path: C:/Users/User/AppData/Roaming/Factorio [240465/399771MB]
+   0.001 Binaries path: C:/GOG Games/Factorio/bin
+   0.057 System info: [CPU:         Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz, 4 cores, RAM: 2684/4076 MB, page: 2925/8151 MB, virtual: 101/8388607 MB, extended virtual: 0 MB]
+   0.057 Display options: [FullScreen: 1] [VSync: 1] [UIScale: custom (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.061 Available displays: 1
+   0.061  [0]: \\.\DISPLAY1 - NVIDIA GeForce GT 520 {0x05, [0,0], 1366x768, 32bit, 60Hz}
+   0.111 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.185 Initialised Direct3D[0]: NVIDIA GeForce GT 520; id: 10de-1040; driver: nvd3dumx.dll 23.21.13.8873
+   0.185   D3D Feature Level: 11.0, DXGI 1.2+, SwapChain: 1,discard,-,-,-,none
+   0.185   BGR 565 Supported: No
+   0.185   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.185 Graphics settings preset: low
+   0.185   Dedicated video memory size 979 MB
+   0.273 Desktop composition is active.
+   0.273 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: low-quality] [Color: 32bit]
+   0.273                   [Max threads (load/render): 32/4] [Max texture size: 4096] [Tex.Stream.: 1] [Rotation quality: low] [Other: sTDC]
+   0.310 DSound: Starting _dsound_update thread
+   0.310 DSound: Enter _dsound_update; tid=5332
+   1.002 Loading mod core 0.0.0 (data.lua)
+   1.391 Loading mod base 0.17.79 (data.lua)
+   3.266 Loading mod base 0.17.79 (data-updates.lua)
+   3.514 Checksum for core: 2035938594
+   3.514 Checksum of base: 4156627525
+   4.028 Prototype list checksum: 2767119397
+   4.080 Loading sounds...
+  11.249 Info PlayerData.cpp:68: Local player-data.json available, timestamp 1581893969
+  11.249 Info PlayerData.cpp:75: Cloud player-data.json unavailable
+  11.498 Initial atlas bitmap size is 4096
+  11.523 Created atlas bitmap 4096x4096 [none]
+  11.544 Created atlas bitmap 4096x4096 [none]
+  11.569 Created atlas bitmap 4096x4096 [none]
+  11.579 Created atlas bitmap 4096x4096 [none]
+  11.593 Created atlas bitmap 4096x4084 [none]
+  11.602 Created atlas bitmap 4096x4096 [none]
+  11.603 Created atlas bitmap 4096x608 [none]
+  11.603 Created atlas bitmap 4096x1956 [decal]
+  11.614 Created atlas bitmap 4096x4080 [low-object, linear-minification]
+  11.614 Created atlas bitmap 4096x1008 [low-object]
+  11.615 Created atlas bitmap 4096x2320 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+  11.622 Created atlas bitmap 4096x4064 [terrain, mipmap, linear-minification, linear-mip-level]
+  11.624 Created atlas bitmap 4096x4080 [terrain, mipmap, linear-minification, linear-mip-level]
+  11.624 Created atlas bitmap 4096x736 [terrain, mipmap, linear-minification, linear-mip-level]
+  11.624 Created atlas bitmap 4096x1600 [smoke, mipmap, linear-minification, linear-magnification]
+  11.625 Created atlas bitmap 4096x1760 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+  11.626 Created atlas bitmap 2048x192 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+  11.626 Created atlas bitmap 4096x900 [alpha-mask]
+  11.641 Created atlas bitmap 4096x4080 [shadow, linear-magnification, alpha-mask]
+  11.653 Created atlas bitmap 4096x4072 [shadow, linear-magnification, alpha-mask]
+  11.674 Created atlas bitmap 4096x4092 [shadow, linear-magnification, alpha-mask]
+  11.675 Created atlas bitmap 4096x1236 [shadow, linear-magnification, alpha-mask]
+  11.676 Created atlas bitmap 4096x1328 [shadow, mipmap, linear-magnification, alpha-mask]
+  11.719 Created virtual atlas pages 4096x4096x2
+  11.733 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+  37.719 Parallel Sprite Loader initialized (threads: 1)
+  52.028 Sprites loaded
+  52.191 Generated mipmaps (3) for atlas [8] of size 4096x4080   
+  52.222 Generated mipmaps (3) for atlas [9] of size 4096x1008   
+  52.293 Generated mipmaps (3) for atlas [10] of size 4096x2320   
+  52.404 Generated mipmaps (3) for atlas [11] of size 4096x4064   
+  52.505 Generated mipmaps (3) for atlas [12] of size 4096x4080   
+  52.516 Generated mipmaps (3) for atlas [13] of size 4096x736   
+  52.537 Generated mipmaps (3) for atlas [14] of size 4096x1600   
+  52.549 Generated mipmaps (5) for atlas [15] of size 4096x1760   
+  52.562 Generated mipmaps (3) for atlas [22] of size 4096x1328   
+  52.563 Custom mipmaps uploaded.
+  52.778 Generated mipmaps for virtual atlas of size 4096x8192
+  52.886 Factorio initialised
+  67.585 Quitting: user-quit.
+  67.680 DSound: Stopping voice
+  67.680 DSound: Joining thread
+  67.685 DSound: Exit _dsound_update; tid=5332
+  67.685 DSound: Waiting for voice to stop ... signaled
+  67.685 DSound: Joined thread
+  67.685 DSound: Destroying thread
+  67.685 DSound: Thread destroyed
+  67.685 DSound: Releasing buffer
+  67.685 DSound: Voice stopped
+  67.685 DSound: Deallocating voice
+  67.685 DSound: Deallocated voice
+  67.737 Goodbye
