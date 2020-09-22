@@ -2,3 +2,11 @@ bin/
 data/
 doc-html
 config-path.cfg
+config/
+temp/
+*.log
+player-data.json
+crop-cache.dat
+mods/
+!mods/mod-list.json
+!mods/mod-settings.dat
