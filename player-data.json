@@ -2,15 +2,15 @@
 {
   "available-campaign-levels": 
   {
-    "npe": 
-    {
-      "level-01": "hard"
-    },
     "tight-spot": 
     {
       "level-01": "hard"
     },
     "transport-belt-madness": 
+    {
+      "level-01": "hard"
+    },
+    "tutorial": 
     {
       "level-01": "hard"
     }
@@ -20,7 +20,7 @@
     "stack-transfers": 
     {
       "status": "not-suggested-yet",
-      "count": 3
+      "count": 9
     },
     "logistic-system-basic": 
     {
@@ -32,7 +32,7 @@
     },
     "trains-basics": 
     {
-      "status": "not-suggested-yet"
+      "status": "suggested"
     },
     "trains-ghost-rail-planner": 
     {
@@ -40,15 +40,15 @@
     },
     "trains-stations": 
     {
-      "status": "not-suggested-yet"
+      "status": "suggested"
     },
     "trains-basic-signals": 
     {
-      "status": "not-suggested-yet"
+      "status": "suggested"
     },
     "trains-advanced-signals": 
     {
-      "status": "not-suggested-yet"
+      "status": "suggested"
     }
   },
   "service-username": "",
@@ -152,9 +152,10 @@
   ],
   "last-played-version": 
   {
-    "game_version": "0.17.79",
-    "build_version": 47865,
+    "game_version": "1.0.0",
+    "build_version": 54889,
     "build_mode": "alpha",
     "platform": "win64"
-  }
+  },
+  "blueprint-view": "grid"
 }
