@@ -20,7 +20,7 @@
     "stack-transfers": 
     {
       "status": "not-suggested-yet",
-      "count": 9
+      "count": 0
     },
     "logistic-system-basic": 
     {
@@ -32,7 +32,7 @@
     },
     "trains-basics": 
     {
-      "status": "suggested"
+      "status": "not-suggested-yet"
     },
     "trains-ghost-rail-planner": 
     {
@@ -40,19 +40,19 @@
     },
     "trains-stations": 
     {
-      "status": "suggested"
+      "status": "not-suggested-yet"
     },
     "trains-basic-signals": 
     {
-      "status": "suggested"
+      "status": "not-suggested-yet"
     },
     "trains-advanced-signals": 
     {
-      "status": "suggested"
+      "status": "not-suggested-yet"
     }
   },
-  "service-username": "",
-  "service-token": "",
+  "service-username": "vadacpp",
+  "service-token": "155d1d9932473f49ce9d99d4e2fb38",
   "last-used-filters": 
   {
     "players": "any",
@@ -140,6 +140,18 @@
       "name": "toggle-equipment-movement-bonus",
       "docked": false,
       "enabled": false
+    },
+    
+    {
+      "name": "todo-add-task-shortcut",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "todo-toggle-ui-shortcut",
+      "docked": true,
+      "enabled": true
     }
   ],
   "editor-lua-snippets": 
@@ -155,7 +167,7 @@
     "game_version": "1.0.0",
     "build_version": 54889,
     "build_mode": "alpha",
-    "platform": "win64"
+    "platform": "linux64"
   },
   "blueprint-view": "grid"
 }
