@@ -9,6 +9,16 @@
     },
     
     {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    
+    {
       "name": "Todo-List",
       "enabled": true
     }
